@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejas-anand
+- 👋 Hi, I’m @Tez
 - 👀 I’m interested in programming, web developing and making games.
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on ...
